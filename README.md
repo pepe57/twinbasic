@@ -1,5 +1,5 @@
 
-<img src="https://twinbasic.com/images/twinBASIClogo1.png" alt="twinBASIC logo" width="400"/>
+<img src="twinBASIClogo1.png" alt="twinBASIC logo" width="400"/>
 <br>
   
 twinBASIC is a modern version of the classic BASIC programming language.  With twinBASIC we aim for 100% backwards compatibility with existing VB6 and VBA projects.
